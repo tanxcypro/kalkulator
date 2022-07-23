@@ -1,0 +1,26 @@
+{
+  "name": "calculator-with-react-native-for-web",
+  "version": "1.0.0",
+  "description": "React Native for Web starter template",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "decimal.js-light": "2.5.0",
+    "flow-bin": "0.100.0",
+    "mathjs": "3.9.0",
+    "prop-types": "^15.6.1",
+    "ramda": "^0.27.1",
+    "react": "16.8.4",
+    "react-dom": "16.8.4",
+    "react-native-web": "0.11.x",
+    "react-scripts": "2.1.8",
+    "seamless-immutable": "6.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
